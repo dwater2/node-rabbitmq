@@ -1,4 +1,4 @@
-# Comandos
+# Commands
 
 ```bash
 docker compose exec rabbitmq bash
